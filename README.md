@@ -1,3 +1,14 @@
-# p5.play Boilerplate -2020
-> Note: This is a very old creative coding project that served as a boilerplate for experimenting with p5.js, p5.play, and related libraries.
-> It includes index.html, style.css, and all necessary p5 libraries for quick setup—ideal for sandboxing interactive sketches.
+# Sprite Collision Demo – 2020
+
+> ⚠️ Note: This is a very old JavaScript project using p5.js and p5.play libraries.
+> It was created as an early interactive demo to experiment with sprite movement and collision detection.
+
+Collision between movingRect and fixedRect is handled using bounceOff() logic.
+
+Features
+
+Interactive Movement: Move the green rectangle with the mouse.
+
+Collision Detection: movingRect bounces off fixedRect when they collide.
+
+Simple Setup: Perfect for learning sprite interaction, velocities, and basic physics in p5.js.
